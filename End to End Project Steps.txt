@@ -1,0 +1,23 @@
+Toy Sales End to End Project Steps :-
+ 
+1. Conducted data cleaning, preprocessing, and transformation on large datasets to ensure data accuracy and
+consistency.
+2. Created a dynamic and interactive dashboard in Power BI to visualize toy sales data for 2023.
+3. Developed individual report pages for Sales Performance, Product Performance, Store Performance, and Goal
+Projections.
+
+4. Implemented DAX measures and calculated columns for accurate sales insights and comparison analysis.
+5. Used Power Query Editor for data cleaning, transformation, and modeling.
+6. Designed visuals like bar charts, cards, line graphs, and slicers for user interactivity.
+
+Impact:
+7. Improved sales performance tracking and strategic planning for stakeholders.
+8. Enhanced data visibility and decision-making with clear and interactive visual reports.
+
+Tools & Technologies:
+9. Power BI, DAX, Power Query, Data Modeling, MS Excel and MS PowerPoint.
+
+
+
+
+
